@@ -10,7 +10,8 @@ React and TypeScript developer focused on clean UI architecture, performance, an
 
 This list reflects the technologies used across my public repositories.
 
-**Languages:** [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+**Languages:** [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)](https://skillicons.dev)
+
 **Frontend:** React 19, React Router, Vanilla JavaScript  
 **Styling & UI:** Tailwind CSS, CSS variables, responsive CSS  
 **Forms & Validation:** React Hook Form, Zod  
