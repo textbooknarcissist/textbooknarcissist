@@ -7,17 +7,17 @@ React and TypeScript developer focused on clean UI architecture, performance, an
 ---
 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ## Technical Stack
 
 This list reflects the technologies used across my public repositories.
 
-**Languages:** TypeScript, JavaScript, HTML5, CSS3  
+**Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
 **Frontend:** React 19, React Router, Vanilla JavaScript  
 **Styling & UI:** Tailwind CSS, CSS variables, responsive CSS  
 **Forms & Validation:** React Hook Form, Zod  
