@@ -36,6 +36,17 @@ A single-page shopping experience that combines cinematic hero imagery, responsi
 Live site: [calabarson.vercel.app](https://calabarson.vercel.app)  
 A production-grade, responsive e-commerce landing page for a luxury streetwear brand built with React, TypeScript, and Vite. It features dark mode support, a curated product gallery, persistent cart state, a multi-step checkout flow, and accessibility-first UI patterns designed for polished mobile and desktop experiences.
 
+
+
+
+## 📌 Featured Projects
+
+| Project | Live / Repo | Summary | Core Stack |
+|--------|------------|---------|------------|
+| **Harrington & Co** | [Live](https://harringtonandco.vercel.app) | Law firm portfolio with **45% bundle reduction** via route-level code splitting. 98 Lighthouse score, optimized images, and accessibility-first UI. | React 19, TypeScript, Tailwind, Vite, React Hook Form, Zod |
+| **Stella** | Repo Only | Cinematic e-commerce experience with dynamic product catalog, persistent favorites, and real-time UI feedback (toasts). | React 19, Vite 6, Tailwind 4, Motion, Lucide |
+| **Calabar Son** | [Live](https://calabarson.vercel.app) | Streetwear e-commerce platform with dark mode, persistent cart, and multi-step checkout flow across mobile & desktop. | React, TypeScript, Vite, Tailwind |
+
 ---
 
 ## Let's Work Together
