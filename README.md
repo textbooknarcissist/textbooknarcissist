@@ -22,20 +22,13 @@ This list reflects the technologies used across my public repositories.
 
 ---
 
-## Featured Projects
+## 📌 Featured Projects
 
-**[Harrington and Co](https://github.com/textbooknarcissist/harringtonandco)** - Premium Law Firm Portfolio  
-Live site: [harringtonandco.vercel.app](https://harringtonandco.vercel.app)  
-Built a production-grade portfolio site for a boutique law firm using React 19, TypeScript, and Tailwind CSS. Implemented route-level code splitting with Vite, reducing initial bundle size by 45%. Added form validation with React Hook Form + Zod, smooth animations, and accessibility-first design. Achieved a 98 Lighthouse score with optimized image loading and performant component architecture.
-
-**[Stella](https://github.com/textbooknarcissist/stella)** - Stella E-commerce Experience  
-Repository only for now, with no live site yet.  
-A single-page shopping experience that combines cinematic hero imagery, responsive product grids, and immersive motion effects. Hero slides, brand spotlights, and product listings are driven by a lightweight catalog service, while favorites persist in localStorage and Add to Cart actions surface quick feedback toasts. Built with React 19, Vite 6, Tailwind CSS 4, motion/react, and Lucide React.
-
-**[Calabar Son](https://github.com/textbooknarcissist/calabar-son-1)** - Premium Streetwear E-Commerce Platform  
-Live site: [calabarson.vercel.app](https://calabarson.vercel.app)  
-A production-grade, responsive e-commerce landing page for a luxury streetwear brand built with React, TypeScript, and Vite. It features dark mode support, a curated product gallery, persistent cart state, a multi-step checkout flow, and accessibility-first UI patterns designed for polished mobile and desktop experiences.
-
+| Project | Live | Summary | Core Stack |
+|--------|------|---------|------------|
+| **[Harrington & Co](https://github.com/yourusername/harrington-repo)** | [Live](https://harringtonandco.vercel.app) | Law firm portfolio with **45% bundle reduction** via route-level code splitting. 98 Lighthouse score, optimized images, and accessibility-first UI. | React 19, TypeScript, Tailwind, Vite, React Hook Form, Zod |
+| **[Stella](https://github.com/yourusername/stella-repo)** | — | Cinematic e-commerce experience with dynamic product catalog, persistent favorites, and real-time UI feedback (toasts). | React 19, Vite 6, Tailwind 4, Motion, Lucide |
+| **[Calabar Son](https://github.com/yourusername/calabarson-repo)** | [Live](https://calabarson.vercel.app) | Streetwear e-commerce platform with dark mode, persistent cart, and multi-step checkout flow across devices. | React, TypeScript, Vite, Tailwind |
 
 
 
