@@ -1,4 +1,4 @@
-# Frontend Developer | Production-Ready Web Applications
+# About Me
 
 React and TypeScript developer focused on clean UI architecture, performance, and shipping polished web experiences. I build fast, accessible interfaces — from law firm portfolios to e-commerce storefronts.
 
