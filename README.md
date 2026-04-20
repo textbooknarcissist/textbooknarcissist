@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&pause=1000&color=17AC1C&background=B35BFF00&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Menoh+Fredebel+;Frontend+Developer;Building+Scalable+Web+Apps;React+%2B+Next.js+%2B+TypeScript" alt="Typing SVG" /></a>
+
 # About Me
 
 React and TypeScript developer focused on clean UI architecture, performance, and shipping polished web experiences. I build fast, accessible interfaces — from law firm portfolios to e-commerce storefronts.
