@@ -1,12 +1,6 @@
 # Frontend Developer | Production-Ready Web Applications
 
-**Building scalable, performant web applications with modern technologies.**
-
----
-
-## What I Build
-
-I ship production-grade frontend applications that solve real problems. My focus is on clean architecture, performance optimization, and delivering user-centric solutions that scale.
+React and TypeScript developer focused on clean UI architecture, performance, and shipping polished web experiences. I build fast, accessible interfaces — from law firm portfolios to e-commerce storefronts.
 
 ---
 
@@ -42,8 +36,8 @@ A production-grade, responsive e-commerce landing page for a luxury streetwear b
 
 ## Let's Work Together
 
-Open to frontend engineering roles, contract work, and technical collaborations.
+Available for frontend engineering roles (remote or hybrid) and contract work.
 
-Email: [mfredebel@gmail.com](mailto:mfredebel@gmail.com)  
-LinkedIn: [linkedin.com/in/fredebel-m-bab914282/](https://www.linkedin.com/in/fredebel-m-bab914282/)  
-Portfolio: [mfredebel.vercel.app](https://mfredebel.vercel.app)
+📧 [mfredebel@gmail.com](mailto:mfredebel@gmail.com)  
+💼 [linkedin.com/in/fredebel-m-bab914282](https://www.linkedin.com/in/fredebel-m-bab914282/)  
+🌐 [mfredebel.vercel.app](https://mfredebel.vercel.app)
