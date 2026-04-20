@@ -6,18 +6,9 @@ React and TypeScript developer focused on clean UI architecture, performance, an
 
 ---
 
-## Technical Stack
+## Languages and Tools:
 
 This list reflects the technologies used across my public repositories.
-
-**Languages:** [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)](https://skillicons.dev)
-
-**Frontend:** React 19, React Router, Vanilla JavaScript  
-**Styling & UI:** Tailwind CSS, CSS variables, responsive CSS  
-**Forms & Validation:** React Hook Form, Zod  
-**State & Storage:** React hooks, localStorage  
-**Build Tools:** Vite  
-**Motion & Icons:** motion/react, Lucide React
 
 ### 🛠 Core Stack
 ![Stack](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite)
@@ -28,7 +19,6 @@ This list reflects the technologies used across my public repositories.
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge)
 ![Lucide](https://img.shields.io/badge/Lucide_Icons-000000?style=for-the-badge)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge)
-
 
 ---
 
