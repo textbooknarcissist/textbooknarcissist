@@ -30,16 +30,6 @@ This list reflects the technologies used across my public repositories.
 | **[Stella](https://github.com/yourusername/stella-repo)** | — | Cinematic e-commerce experience with dynamic product catalog, persistent favorites, and real-time UI feedback (toasts). | React 19, Vite 6, Tailwind 4, Motion, Lucide |
 | **[Calabar Son](https://github.com/yourusername/calabarson-repo)** | [Live](https://calabarson.vercel.app) | Streetwear e-commerce platform with dark mode, persistent cart, and multi-step checkout flow across devices. | React, TypeScript, Vite, Tailwind |
 
-
-
-## 📌 Featured Projects
-
-| Project | Live / Repo | Summary | Core Stack |
-|--------|------------|---------|------------|
-| **Harrington & Co** | [Live](https://harringtonandco.vercel.app) | Law firm portfolio with **45% bundle reduction** via route-level code splitting. 98 Lighthouse score, optimized images, and accessibility-first UI. | React 19, TypeScript, Tailwind, Vite, React Hook Form, Zod |
-| **Stella** | Repo Only | Cinematic e-commerce experience with dynamic product catalog, persistent favorites, and real-time UI feedback (toasts). | React 19, Vite 6, Tailwind 4, Motion, Lucide |
-| **Calabar Son** | [Live](https://calabarson.vercel.app) | Streetwear e-commerce platform with dark mode, persistent cart, and multi-step checkout flow across mobile & desktop. | React, TypeScript, Vite, Tailwind |
-
 ---
 
 ## Let's Work Together
@@ -47,5 +37,6 @@ This list reflects the technologies used across my public repositories.
 Available for frontend engineering roles (remote or hybrid) and contract work.
 
 📧 [mfredebel@gmail.com](mailto:mfredebel@gmail.com)  
-💼 [linkedin.com/in/fredebel-m-bab914282](https://www.linkedin.com/in/fredebel-m-bab914282/)  
-🌐 [mfredebel.vercel.app](https://mfredebel.vercel.app)
+💼 [LinkedIn](https://www.linkedin.com/in/fredebel-m-bab914282/)  
+💬 [WhatsApp](https://wa.me/2349065624016)  
+🌐 [Portfolio](https://mfredebel.vercel.app)
