@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=21&pause=1000&color=1BAE1B&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Menoh+Fredebel" alt="Typing SVG" /></a>
 
-# Frontend Developer | Production-Ready Web Applications
+# 👨🏽‍💻 Frontend Developer | Production-Ready Web Applications
 
 React and TypeScript developer focused on clean UI architecture, performance, and shipping polished web experiences. I build fast, accessible interfaces — from law firm portfolios to e-commerce storefronts.
 
