@@ -19,6 +19,17 @@ This list reflects the technologies used across my public repositories.
 **Build Tools:** Vite  
 **Motion & Icons:** motion/react, Lucide React
 
+### 🛠 Core Stack
+![Stack](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite)
+
+### ⚙️ Tools & Libraries
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge)
+![Lucide](https://img.shields.io/badge/Lucide_Icons-000000?style=for-the-badge)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge)
+
+
 ---
 
 ## Featured Projects
